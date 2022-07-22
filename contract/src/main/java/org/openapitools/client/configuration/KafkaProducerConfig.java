@@ -1,4 +1,4 @@
-package org.openapitools.client;
+package org.openapitools.client.configuration;
 
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;

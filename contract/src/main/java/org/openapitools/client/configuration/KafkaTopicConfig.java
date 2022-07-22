@@ -1,4 +1,4 @@
-package org.openapitools.client;
+package org.openapitools.client.configuration;
 
 import org.apache.kafka.clients.admin.AdminClientConfig;
 import org.apache.kafka.clients.admin.NewTopic;
